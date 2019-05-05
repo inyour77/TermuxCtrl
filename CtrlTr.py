@@ -80,14 +80,14 @@ slowprints(gilang3)
 sleep(20)
 print(g+"""
           -o          o-      ~\InYourSistem
-          +hydNNNNdyh+             ------------
-        +mMMMMMMMMMMMMm+          NAME : gilang
-      `dMM[â™¡]MMMMM[â™¡]MMd`         Team : 2e4h
-      hM\\MMMMMMMMMM//MMMh        Versi: 1.0
-  ..  yyy\\_________//yyyyy  ..   Nick : InYour
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.     2e4hTeam
+          +hydNNNNdyh+          ------------
+        +mMMMMMMMMMMMMm+         NAME : gilang
+      `dMM[â™¡]MMMMM[â™¡]MMd`    Team : 2e4h
+      hM\\MMMMMMMMMM//MMMh       Versi: 1.0
+  ..  yyy\\_________//yyyyy  ..  Nick : InYour
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm. 2e4hTeam
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   For : Termux
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM: For : Termux
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:     ||
 -MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-======|
