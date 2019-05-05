@@ -82,9 +82,9 @@ print(g+"""
           -o          o-      ~\InYourSistem
           +hydNNNNdyh+          ------------
         +mMMMMMMMMMMMMm+         NAME : gilang
-      `dMM[â™¡]MMMMM[â™¡]MMd`    Team : 2e4h
-      hM\\MMMMMMMMMM//MMMh       Versi: 1.0
-  ..  yyy\\_________//yyyyy  ..  Nick : InYour
+      `dMM[•]MMMMM[•]MMd`        Team : 2e4h
+      hM\MMMMMMMMMMMM/MMMh       Versi: 1.0
+  ..  yyy\__________/yyyyyy  ..  Nick : InYour
 .mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm. 2e4hTeam
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM: For : Termux
@@ -95,7 +95,7 @@ print(g+"""
       mMMMMMMMMMMMMMMMMMMm           ||
       `/++MMMMh++hMMMM++/`
           MMMMo  oMMMM
-        mmmmmmâ—‹  â—‹mmmmmm
+        mmmmmmâ  ammmmmm
       mmmmmmmmm  mmmmmmmmm
 [<>]<<<<<<<<<<<|>>>>>>>>>>>>[<>]
 """)
