@@ -39,7 +39,7 @@ gilang=(a+"""
 | Author : InYourXerXez7                 |
 | Team   : Buft~2e4h                     |
 | ThankTo: My Friends && Allah           |
-| Codex  :https://github.com/kumpul4semut|
+| Codex  :https://github.com/gillanggans7|
 | Contack: @XerXezOficial                |
 ==============<·~~~~~~~~~~~~>·==============
 """)
