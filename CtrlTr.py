@@ -1,6 +1,5 @@
-#Compiled InYoyurXerXez7
-#2e4hTeam
-#Kiya
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os
 import sys
 import time
